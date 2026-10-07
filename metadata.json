@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Financial Markets & Screener",
+  "description": "Comprehensive global financial markets dashboard inspired by TradingView, featuring real-time quotes, technical charts, stocks, crypto, forex, indices, futures, bonds, and market heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
